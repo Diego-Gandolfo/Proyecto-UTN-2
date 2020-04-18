@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7916662a4dc188d4fb87d72b0e198ae0
+timeCreated: 1445184546
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - NPCRifle: {fileID: 132178, guid: b0fada5466b1e5f488cc794c52fb4c86, type: 2}
+  - NPCPistola: {fileID: 196342, guid: f99719d05f849a846b8ddea22f0e548a, type: 2}
+  - NPCBox: {fileID: 110064, guid: 18b54ca84e6bb9f4cb59be52f5f3d065, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
